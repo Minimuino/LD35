@@ -1,6 +1,6 @@
 # Cloud Sculptor
 
-My entry for Ludum Dare 35.
+My entry for Ludum Dare 35. You can play at https://gamejolt.com/games/cloud-sculptor/141998
 
 Clouds, shapeshifters by excellence, and you, the wind that sculpts them in a never-ending improvisation.
 
